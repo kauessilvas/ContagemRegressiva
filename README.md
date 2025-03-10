@@ -1,2 +1,2 @@
 # ContagemRegressiva
-Programa que exiba uma contagem regressiva
+Programa que exibe uma contagem regressiva
